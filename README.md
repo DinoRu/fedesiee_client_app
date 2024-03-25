@@ -1,16 +1,17 @@
 # fedesie_client_app
 
-A new Flutter project.
+Fedesiee app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Fediesiee is a user-friendly mobile application built using Flutter and powered by GetX for efficient state management.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After cloning project files, open it in your editor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run
+
+<h5>flutter pub get</h5>
+
+link it with your firebase account with flutterfire and configure it Check flutterfire here
